@@ -1,0 +1,28 @@
+[
+  {
+    "id": "owner_hayozimi",
+    "username": "hayozimi",
+    "title": "Owner",
+    "title_ru": "Владелец",
+    "title_zh": "所有者",
+    "about": "One of the owners of Hayo Gram.",
+    "about_ru": "Один из владельцев Hayo Gram.",
+    "about_zh": "Hayo Gram 的所有者之一。",
+    "color": "8DD1B0",
+    "icon": "crown",
+    "url": "https://t.me/hayozimi"
+  },
+  {
+    "id": "owner_zarrokk",
+    "username": "zarrokk",
+    "title": "Owner",
+    "title_ru": "Владелец",
+    "title_zh": "所有者",
+    "about": "One of the owners of Hayo Gram.",
+    "about_ru": "Один из владельцев Hayo Gram.",
+    "about_zh": "Hayo Gram 的所有者之一。",
+    "color": "B7A8E0",
+    "icon": "star",
+    "url": "https://t.me/zarrokk"
+  }
+]
