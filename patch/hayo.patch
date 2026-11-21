@@ -69011,7 +69011,7 @@ index 4a5efa19..b6cd53df 100644
  APP_VERSION_CODE=7237
  APP_VERSION_NAME=13.1.1
 -APP_PACKAGE=org.telegram.messenger
-+APP_PACKAGE=cat.hayozimi.hayogram
++APP_PACKAGE=cat.narezany.margygram
  IS_PRIVATE=false
  RELEASE_KEY_PASSWORD=android
  RELEASE_KEY_ALIAS=androidkey
