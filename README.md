@@ -2,10 +2,11 @@
 
 **A Telegram fork for Android by [Hayozimi](https://t.me/hayozimi).**
 
-Rebranded fork of [MargyGram](https://git.narez.xyz/narezany/MargyGram). Package
-`cat.hayozimi.hayogram`, so it installs next to official Telegram rather than
-over it. Built from [DrKLO/Telegram](https://github.com/DrKLO/Telegram) with the
-single patch in `patch/hayo.patch`.
+Rebranded fork of [MargyGram](https://git.narez.xyz/narezany/MargyGram). The
+package stays `cat.narezany.margygram` — only what the user sees is renamed to
+Hayo Gram, and two owner badges are added. Built from
+[DrKLO/Telegram](https://github.com/DrKLO/Telegram) with the single patch in
+`patch/hayo.patch`.
 
 [Русский](README.ru.md) · [Badges](docs/badges.md) · [Build](BUILD.md) · [Security notes](docs/security.md)
 
@@ -27,8 +28,8 @@ The badge is decoration, not proof of identity. It certifies nothing.
 
 ## What changed from MargyGram
 
-- Every `Margy`/`MargyGram` name is now `Hayo`/`Hayo Gram`; package and signing
-  keys are `cat.hayozimi.hayogram` / `HAYO_*`.
+- User-visible names are now `Hayo`/`Hayo Gram`. The package name stays
+  `cat.narezany.margygram` so this builds as the same app as the upstream fork.
 - Author, channel and feedback links point to `@hayozimi`; source links point
   to this repository.
 - The original author's payment details, donor links and servers were removed,
