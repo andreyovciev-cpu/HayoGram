@@ -3,9 +3,9 @@
 **Форк Telegram для Android от [Hayozimi](https://t.me/hayozimi).**
 
 Переименованный форк [MargyGram](https://git.narez.xyz/narezany/MargyGram).
-Пакет `cat.hayozimi.hayogram` — приложение ставится рядом с обычным Telegram,
-а не поверх него. Собирается из [DrKLO/Telegram](https://github.com/DrKLO/Telegram)
-одним патчем `patch/hayo.patch`.
+Пакет остаётся `cat.narezany.margygram` — меняется только то, что видит
+пользователь, и добавляются два значка владельцев. Собирается из
+[DrKLO/Telegram](https://github.com/DrKLO/Telegram) одним патчем `patch/hayo.patch`.
 
 [English](README.md) · [Значки](docs/badges.md) · [Сборка](BUILD.ru.md) · [Безопасность](docs/security.md)
 
@@ -27,8 +27,8 @@
 
 ## Что изменилось по сравнению с MargyGram
 
-- Все `Margy`/`MargyGram` заменены на `Hayo`/`Hayo Gram`; пакет и ключи сборки
-  стали `cat.hayozimi.hayogram` / `HAYO_*`.
+- Видимые пользователю названия заменены на `Hayo`/`Hayo Gram`. Пакет остаётся
+  `cat.narezany.margygram` — это та же программа, что и исходный форк.
 - Автор, канал и обратная связь ведут на `@hayozimi`, исходники — сюда.
 - Платёжные реквизиты, ссылки на донат и серверы прежнего автора удалены,
   а не перенесены. Экран доната больше не предлагает способов оплаты.
